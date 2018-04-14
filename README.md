@@ -18,7 +18,7 @@ https://github.com/gemmadlou/Npm-Sass-Package-Starter.git
 * Remove the .git folder so you can make your own
 
 ```shell
-cd NPM-Package-Starter
+cd NPM-Sass-Package-Starter
 sudo rm -rf .git
 ```
 
