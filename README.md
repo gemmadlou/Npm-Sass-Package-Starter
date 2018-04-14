@@ -12,7 +12,7 @@ This starter repo is to help build npm packages easily. Features are:
 * Simply clone this project.
 
 ```shell
-git clone git@github.com:gemmadlou/NPM-Package-Starter.git
+https://github.com/gemmadlou/Npm-Sass-Package-Starter.git
 ```
 
 * Remove the .git folder so you can make your own
